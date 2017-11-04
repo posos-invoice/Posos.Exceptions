@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Posos.Exceptions")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Extended Exceptions Class Library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Juan Pedro Gonzalez")]
 [assembly: AssemblyProduct("Posos.Exceptions")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright ©2017 Juan Pedro Gonzalez")]
+[assembly: AssemblyTrademark("Juan Pedro Gonzalez")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
